@@ -5,3 +5,8 @@ def add_num(a,b):
 print("the sum is",add_num(num_1,num_2))
 
 
+def div_num(a, b):
+    return a*b
+print("the div is",div_num(num_1, num_2))
+
+
